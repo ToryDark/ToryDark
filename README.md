@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm PEASAH-DARKWAH EMMANUEL
+####      A passionate Data analyst from Ghana.
 - 🔭 I’m currently working at Absa Bank Ghana Limited
 - 🌱 I’m currently learning Data Analysis with Udacity (ALX-T Data Analyst)
 - 👯 I’m looking to collaborate on Data Analysis Projects
